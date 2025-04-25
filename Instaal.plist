@@ -24,6 +24,9 @@
         <string>software</string>
         <key>title</key>
         <string>Fortnite</string>
+        <!-- Added display image URL -->
+        <key>display-image</key>
+        <string>https://images.icon-icons.com/2407/PNG/512/epic_games_icon_146062.png</string>
       </dict>
     </dict>
   </array>
